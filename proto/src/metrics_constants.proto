@@ -2223,5 +2223,8 @@ message MetricsEvent {
 
     // Dojo
     DOJO = 411;
+
+    // Quick Settings
+    QUICK_SETTINGS = 412;
   }
 }
